@@ -1,15 +1,14 @@
 const config = require('../config');
 const moment = require('moment-timezone');
 const { cmd, commands } = require('../command');
-const axios = require('axios');
 
 cmd({
   pattern: "menu",
-  alias: ["allmenu", "Dawens"],
+  alias: ["allmenu", "Zarya"],
   use: '.menu',
   desc: "Show all bot commands",
   category: "menu",
-  react: "🐍",
+  react: "⚡",
   filename: __filename
 },
 async (conn, mek, m, { from, reply }) => {
@@ -17,6 +16,7 @@ async (conn, mek, m, { from, reply }) => {
     const totalCommands = commands.length;
     const date = moment().tz("America/Port-au-Prince").format("dddd, DD MMMM YYYY");
 
+    // Calculate uptime in h m s
     const uptime = () => {
       let sec = process.uptime();
       let h = Math.floor(sec / 3600);
@@ -25,21 +25,21 @@ async (conn, mek, m, { from, reply }) => {
       return `${h}h ${m}m ${s}s`;
     };
 
-    // Menu principal
+    // Build the menu header
     let menuText = `
-*╭══ 𝐃𝐀𝐖𝐄𝐍𝐒-𝐗𝐃*
-*┃❃* *ᴜsᴇʀ* : @${m.sender.split("@")[0]}
-*┃❃* *ʀᴜɴᴛɪᴍᴇ* : ${uptime()}
-*┃❃* *ᴍᴏᴅᴇ* : *${config.MODE}*
-*┃❃* *ᴘʀᴇғɪx* : *${config.PREFIX}*
-*┃❃* *ᴩʟᴜɢɪɴ* : ${totalCommands}
-*┃❃* *ᴅᴇᴠ* : *dawens*
-*┃❃* *ᴠᴇʀsɪᴏɴs* : *1.0.0*
+*╭══ 𝐙𝐀𝐑𝐘𝐀𝐁𝐎𝐓-𝐕𝟏*
+*┃❃* *User:* @${m.sender.split("@")[0]}
+*┃❃* *Date:* ${date}
+*┃❃* *Uptime:* ${uptime()}
+*┃❃* *Mode:* *${config.MODE}*
+*┃❃* *Prefix:* *${config.PREFIX}*
+*┃❃* *Plugins:* ${totalCommands}
+*┃❃* *Developer:* *dawens*
+*┃❃* *Version:* *1.0.0*
 *╰════════════════⊷*
-
 `;
 
-    // Catégories et commandes
+    // Organize commands by category
     let category = {};
     for (let cmd of commands) {
       if (!cmd.category) continue;
@@ -47,6 +47,7 @@ async (conn, mek, m, { from, reply }) => {
       category[cmd.category].push(cmd);
     }
 
+    // Sort and append categories and commands to menu text
     const keys = Object.keys(category).sort();
     for (let k of keys) {
       menuText += `\n\n*╭─* ${k.toUpperCase()} MENU*`;
@@ -58,20 +59,17 @@ async (conn, mek, m, { from, reply }) => {
       menuText += `\n*┕──────────────❒*`;
     }
 
-    // Affecter à la variable caption
-    const selectedStyle = menuText;
-
-    // Envoyer l'image avec le menu
+    // Send image with menu text as caption
     await conn.sendMessage(from, {
       image: { url: 'https://files.catbox.moe/pbamxw.jpeg' },
-      caption: selectedStyle,
+      caption: menuText,
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363401658098220@newsletter',
-          newsletterName: '𝐃𝐀𝐖𝐄𝐍𝐒-𝗫𝗗',
+          newsletterName: '𝐙𝐀𝐑𝐘𝐀𝐁𝐎𝐓-𝐕𝟏',
           serverMessageId: 143
         }
       }
