@@ -1,8 +1,8 @@
 {
-  "name": "DAWENS-XD",
-  "description": "Javascript WhatsApp bot made by DAWENS",
+  "name": "ZaryaBot-V1",
+  "description": "Javascript WhatsApp bot made by Zarya Team",
   "logo": "https://files.catbox.moe/82b8gr.jpg",
-  "keywords": ["DAWENS-XD"],
+  "keywords": ["ZaryaBot-V1"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -14,7 +14,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐃𝐀𝐖𝐄𝐍𝐒-𝐗𝐃"
+      "value": "𝐙𝐀𝐑𝐘𝐀𝐁𝐎𝐓-𝐕𝟏"
     },
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -64,7 +64,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY 𝐃𝐀𝐖𝐄𝐍𝐒-𝐗𝐃 🖤*"
+      "value": "*SEEN YOUR STATUS BY 𝐙𝐀𝐑𝐘𝐀𝐁𝐎𝐓-𝐕𝟏 🖤*"
     },
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
@@ -79,7 +79,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐃𝐀𝐖𝐄𝐍𝐒-𝐗𝐃"
+      "value": "𝐙𝐀𝐑𝐘𝐀𝐁𝐎𝐓-𝐕𝟏"
     },
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
@@ -109,7 +109,7 @@
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀᴡᴇɴꜱ ᴛᴇᴀᴍ*"
+      "value": "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴢᴀʀʏᴀ ᴛᴇᴀᴍ*"
     },
     "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
