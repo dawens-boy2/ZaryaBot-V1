@@ -13,15 +13,15 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
   <p align="center">
 <a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/dawens-xd?color=blue&style=flat-square"></a>
-<a href="https://github.com/DAWENS-BOY/DAWENS-XD/DAWENS-XD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/dawens-xd/DAWENS-XD?color=blue&style=flat-square"></a>
-<a href="https://github.com/DAWENS-BOY/DAWENS-XD/DAWENS-XD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/dawens-xd/DAWENS-XD?color=blue&style=flat-square"></a>
-<a href="https://github.com/DAWENS-BOY/DAWENS-XD/"><img title="Size" src="https://img.shields.io/github/repo-size/DAWENS-XD/GOTAR-XMD?style=flat-square&color=green"></a>
-<a href="https://github.com/DAWENS-BOY/DAWENS-XD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/dawens-boy2/ZaryaBot-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/dawens-boy2/ZaryaBot-V1?color=blue&style=flat-square"></a>
+<a href="https://github.com/dawens-boy2/ZaryaBot-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/dawens-boy2/ZaryaBot-V1?color=blue&style=flat-square"></a>
+<a href="https://github.com/dawens-boy2/ZaryaBot-V1/"><img title="Size" src="https://img.shields.io/github/repo-size/dawens-boy2/ZaryaBot-V1?style=flat-square&color=green"></a>
+<a href="https://github.com/dawens-boy2/ZaryaBot-V1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=200&lines=DAWENS-XD;VERSION+2025;BY+DAVE+TECH" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=200&lines=dawens-boy2;VERSION+2025;BY+DAWENS+TECH" alt="Typing SVG" />
   </a>
 </p>
   
@@ -42,8 +42,8 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ### 🍴 Fork the Project
 
-[![🍴 Forks](https://img.shields.io/github/forks/DAWENS-BOY/DAWENS-XD?style=flat-square&color=orange)](https://github.com/DAWENS-BOY/DAWENS-XD/network/members)
-➡️ [**Click here to Fork this Project on GitHub**](https://github.com/DAWENS-BOY/DAWENS-XD/fork)
+[![🍴 Forks](https://img.shields.io/github/forks/dawens-boy2/ZaryaBot-V1?style=flat-square&color=orange)](https://github.com/dawens-boy2/ZaryaBot-V1/network/members)
+➡️ [**Click here to Fork this Project on GitHub**](https://github.com/dawens-boy2/ZaryaBot-V1/fork)
 
 
 
@@ -70,19 +70,19 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-### <h2 align="">𐃁DAWENS-XD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="">𐃁ZaryaBot-V1 DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
  ## 1. DEPLOY ON HEROKU ❤️
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/DAWENS-BOY/DAWENS-XD)  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/dawens-boy2/ZaryaBot-V1) 
 
 ### <h4 align="">3. KOYEB</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=gotartech/DAWENS-XD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20DAWENS-XD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=gotartech/DAWENS-XD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20ZaryaBot-V1&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">2. TALKDROVE FREE</h4>
@@ -120,7 +120,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ## <h3 align=""> HOW TO DEPLOY ON HUGGING FACE</h3>
 <h6 align-"center">
-*❄️ Deploy DAWENS-XD On Hugging Face For Free !*
+*❄️ Deploy ZaryaBot-V1 On Hugging Face For Free !*
 
 `Specs :`
 - v2 CPU
@@ -132,7 +132,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 1. Go to hugginface.co/join and create an account and verify your email too.
 
 `Step 2`
-1. Go to https://huggingface.co/spaces/dawens/DAWENS-XD
+1. Go to https://huggingface.co/spaces/dawens-boy2/ZaryaBot-V1
 
 2. Tap on *three dots* _(as shown in image)_
 
@@ -147,7 +147,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 > CREDITS 🎐
 
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ dawens-xd*</h6>
+*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ZaryaBot-V1*</h6>
 
 </details>
 
@@ -216,7 +216,7 @@ jobs:
 HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME DAWENS-XD࿐➺
 
 <p align="">
-<a href='https://wa.me/50942241547?text=*ʜɪɪ+dawens+ᴛᴇᴄʜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DAWENS-𝗫𝗗+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/50942241547?text=*ʜɪɪ+dawens+ᴛᴇᴄʜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ZaryaBot-V1+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://imgur.com/a/cUo8v5O.gif'/></a>
 
 
