@@ -25,7 +25,7 @@ async (conn, mek, m, { from, sender, reply }) => {
 │🖥️ *Host:* ${os.hostname()}
 │⌛ *Uptime:* ${runtime(process.uptime())}
 ╰────────────────────◉
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ dawens*}`;
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏*}`;
 
         await conn.sendMessage(from, {
             image: { url: `https://files.catbox.moe/pbamxw.jpeg ` },
@@ -36,7 +36,7 @@ async (conn, mek, m, { from, sender, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363401658098220@newsletter',
-                    newsletterName: '𝐃𝐀𝐖𝐄𝐍𝐒 𝐗𝐃',
+                    newsletterName: '𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏',
                     serverMessageId: 143
                 }
             }
