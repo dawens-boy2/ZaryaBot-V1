@@ -53,12 +53,12 @@ cmd({
     const lastUpdate = fs.statSync(localVersionPath).mtime.toLocaleString();
 
     // GitHub stats
-    const githubRepo = 'https://github.com/DAWENS-BOY/DAWENS-XD';
+    const githubRepo = 'https://github.com/dawens-boy2/ZaryaBot-V1';
 
     // Check update status
-    let updateMessage = `✅ Your 𝐃𝐀𝐖𝐄𝐍𝐒 𝐗𝐃 bot is up-to-date!`;
+    let updateMessage = `✅ Your 𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏 bot is up-to-date!`;
     if (localVersion !== latestVersion) {
-      updateMessage = `🚀 Your 𝐃𝐀𝐖𝐄𝐍𝐒 𝐗𝐃 bot is outdated!
+      updateMessage = `🚀 Your 𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏 bot is outdated!
 🔹 *Current Version:* ${localVersion}
 🔹 *Latest Version:* ${latestVersion}
 
@@ -66,10 +66,10 @@ Use *.update* to update.`;
     }
 
     const statusMessage = `🌟 *Good ${new Date().getHours() < 12 ? 'Morning' : 'Night'}, ${pushname}!* 🌟\n\n` +
-      `📌 *Bot Name:* 𝐃𝐀𝐖𝐄𝐍𝐒 𝐗𝐃\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
+      `📌 *Bot Name:* 𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
       `💾 *System Info:*\n⏳ *Uptime:* ${uptime}\n📟 *RAM Usage:* ${ramUsage}MB / ${totalRam}MB\n⚙️ *Host Name:* ${hostName}\n📅 *Last Update:* ${lastUpdate}\n\n` +
       `📝 *Changelog:*\n${latestChangelog}\n\n` +
-      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [DAWENS-XD](https://github.com/DAWENS-BOY/DAWENS-XD)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
+      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏](https://github.com/dawens-boy2/ZaryaBot-V1)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
 
     // Send the status message with an image
     await conn.sendMessage(from, {
@@ -81,7 +81,7 @@ Use *.update* to update.`;
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363401658098220@newsletter',
-          newsletterName: '𝐃𝐀𝐖𝐄𝐍𝐒 𝐗𝐃',
+          newsletterName: '𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏',
           serverMessageId: 143
         }
       }
