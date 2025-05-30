@@ -18,7 +18,7 @@ async (conn, mek, m, { from, reply }) => {
         
         // Style 1: Retro Terminal
         const style1 = `╔══════════════════════╗
-║   𝐃𝐀𝐖𝐄𝐍𝐒 𝐗𝐃 UPTIME    
+║   𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏 UPTIME    
 ╠══════════════════════
 ║  RUNTIME: ${uptime}
 ║  SINCE: ${startTime.toLocaleString()}
@@ -38,7 +38,7 @@ async (conn, mek, m, { from, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363401658098220@newsletter',
-                    newsletterName: config.OWNER_NAME || '𝐃𝐀𝐖𝐄𝐍𝐒 𝐗𝐃',
+                    newsletterName: config.OWNER_NAME || '𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏',
                     serverMessageId: 143
                 }
             }
