@@ -305,7 +305,7 @@ cmd({
         document: { url: downloadUrl },
         mimetype: response.data.result.mimetype,
         fileName: response.data.result.fileName,
-        caption: "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ dawens*"
+        caption: "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏*"
       }, { quoted: m });
 
       await conn.sendMessage(from, { react: { text: "✅", key: m.key } });
