@@ -4,7 +4,7 @@ const { cmd, commands } = require('../command');
 
 cmd({
   pattern: "menu",
-  alias: ["allmenu", "Zarya"],
+  alias: ["allmenu", "𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏"],
   use: '.menu',
   desc: "Show all bot commands",
   category: "menu",
@@ -34,7 +34,7 @@ async (conn, mek, m, { from, reply }) => {
 *┃❃* *Mode:* *${config.MODE}*
 *┃❃* *Prefix:* *${config.PREFIX}*
 *┃❃* *Plugins:* ${totalCommands}
-*┃❃* *Developer:* *dawens*
+*┃❃* *Developer:* *𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏*
 *┃❃* *Version:* *1.0.0*
 *╰════════════════⊷*
 `;
