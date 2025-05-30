@@ -1,6 +1,6 @@
-name: gotar-xmd
+name: ZaryaBot-V1
 services:
-  - name: dawens-xd-service
+  - name: zaryabot-v1-service
     type: web
     ports:
       - 5000
@@ -12,4 +12,3 @@ services:
     regions:
       - fra
       - sin
-      
