@@ -26,10 +26,10 @@ cmd({
         const currentHash = await getCommitHash();
 
         if (latestCommitHash === currentHash) {
-            return reply("✅ Your DAWENS-XD bot is already up-to-date!");
+            return reply("✅ Your 𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏 bot is already up-to-date!");
         }
 
-        await reply("DAWENS XD UPDATING WAIT PLS 👨‍💻...");
+        await reply("𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏 UPDATING WAIT PLS 👨‍💻...");
 
         // Download the latest code
         const zipPath = path.join(__dirname, "latest.zip");
@@ -44,7 +44,7 @@ cmd({
 
         // Copy updated files, preserving config.js and app.json
         await reply("🔄 Replacing files...");
-        const sourcePath = path.join(extractPath, "DAWENS-XD-main");
+        const sourcePath = path.join(extractPath, "𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏-main");
         const destinationPath = path.join(__dirname, '..');
         copyFolderSync(sourcePath, destinationPath);
 
