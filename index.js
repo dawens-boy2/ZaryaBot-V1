@@ -68,7 +68,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("DAWENS~XD~", '');
+const sessdata = config.SESSION_ID.replace("ZaryaBot-V1", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -111,9 +111,9 @@ const port = process.env.PORT || 9090;
   }
   });
   console.log('Plugins installed successful ✅')
-  console.log('DAWENS-XD CONNECTED SUCCESSFULLY ✅')
+  console.log('ZaryaBot-V1  CONNECTED SUCCESSFULLY ✅')
   
-  let up = `*Hello there DAWENS-XD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet DAWENS-XD WhatsApp Bot.\n\n *Thanks for using DAWENS-XD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \ https://whatsapp.com/channel/0029VayfNoX8KMqltTJc5R1q\n\n- *YOUR PREFIX:* = ${prefix}\n\n- *BOT MODE:* = ${config.MODE}\n\nDont forget to give star to repo ⬇️\n\ https://github.com/DAWENS-BOY/DAWENS-XD\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ dawens tech
+  let up = `*Hello there ZaryaBot-V1  User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet ZaryaBot-V1 WhatsApp Bot.\n\n *Thanks for using ZaryaBot-V1 \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \ https://whatsapp.com/channel/0029VayfNoX8KMqltTJc5R1q\n\n- *YOUR PREFIX:* = ${prefix}\n\n- *BOT MODE:* = ${config.MODE}\n\nDont forget to give star to repo ⬇️\n\ https://github.com/dawens-boy2/ZaryaBot-V1\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ dawens tech
 \ud83d\udda4`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/82b8gr.jpg` }, caption: up })
   }
@@ -770,7 +770,7 @@ if (!isReact && config.CUSTOM_REACT === 'true') {
   }
   
   app.get("/", (req, res) => {
-  res.send("DAWENS XD STARTED ✅");
+  res.send("ZaryaBot-V1 STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
