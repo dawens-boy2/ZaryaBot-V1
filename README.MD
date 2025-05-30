@@ -10,9 +10,8 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
 
-
   <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/𝐙𝐀𝐑𝐘𝐀𝐁𝐎𝐓-𝗩𝟏?color=blue&red&style=flat-square"></a>
+<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/dawens-boy2?color=blue&style=flat-square"></a>
 <a href="https://github.com/dawens-boy2/ZaryaBot-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/dawens-boy2/ZaryaBot-V1?color=blue&style=flat-square"></a>
 <a href="https://github.com/dawens-boy2/ZaryaBot-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/dawens-boy2/ZaryaBot-V1?color=blue&style=flat-square"></a>
 <a href="https://github.com/dawens-boy2/ZaryaBot-V1/"><img title="Size" src="https://img.shields.io/github/repo-size/dawens-boy2/ZaryaBot-V1?style=flat-square&color=white"></a>
@@ -21,7 +20,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=200&lines=DAWENS-XD;VERSION+2025;BY+𝐙𝐀𝐑𝐘𝐀𝐁𝐎𝐓+𝗩𝟏" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=200&lines=DAWENS-XD;VERSION+2025;BY+𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏" alt="Typing SVG" />
   </a>
 </p>
   
