@@ -78,13 +78,13 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         await conn.newsletterReactMessage(channelMeta.id, messageId, emoji);
 
-        return reply(`╭━━〔 *𝐃𝐀𝐖𝐄𝐍𝐒 𝐗𝐃* 〕━┈⊷
+        return reply(`╭━━〔 *𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏* 〕━┈⊷
 ┃▸ *Success!* Reaction sent
 ┃▸ *Channel:* ${channelMeta.name}
 ┃▸ *Reaction:* ${emoji}
 ╰────────────────┈⊷
 
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ dawens*`);
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏*`);
 
     } catch (e) {
 
@@ -96,4 +96,4 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 });
 
-// *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅawens Tech* 
+// *ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏 Tech* 
