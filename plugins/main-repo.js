@@ -11,7 +11,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/DAWENS-BOY/DAWENS-XD';
+    const githubRepoURL = 'https://github.com/DAWENS-BOY/ZARYABOT-V1'; // 🔁 Updated repo name
 
     try {
         const match = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
@@ -20,9 +20,7 @@ async (conn, mek, m, { from, reply }) => {
         const [, username, repoName] = match;
 
         const response = await fetch(`https://api.github.com/repos/${username}/${repoName}`, {
-            headers: {
-                'User-Agent': 'DAWENS-XD'
-            }
+            headers: { 'User-Agent': 'ZaryaBot-V1' }
         });
 
         if (response.status === 503) {
@@ -36,7 +34,7 @@ async (conn, mek, m, { from, reply }) => {
         const repoData = await response.json();
 
         const message = `┌──────────────────────┐
-│  💫 𝐃𝐀𝐖𝐄𝐍𝐒-𝗫𝗗 𝗥𝗘𝗣𝗢  💫  
+│  💫 𝐙𝐀𝐑𝐘𝐀𝐁𝐎𝐓-𝗩𝟏 𝗥𝗘𝗣𝗢 💫  
 ├──────────────────────
 │ • Name: ${repoData.name}
 │ • Owner: ${repoData.owner.login}
@@ -45,10 +43,10 @@ async (conn, mek, m, { from, reply }) => {
 │ • URL: ${repoData.html_url}
 │ • Desc: ${repoData.description || 'None'}
 └──────────────────────┘
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢᴏᴛᴀʀ ᴛᴇᴄʜ*`;
+> *Powered by ZaryaTech 🔧*`;
 
         await conn.sendMessage(from, {
-            image: { url: `https://files.catbox.moe/pbamxw.jpeg ` },
+            image: { url: 'https://files.catbox.moe/pbamxw.jpeg' },
             caption: message,
             contextInfo: { 
                 mentionedJid: [m.sender],
@@ -56,7 +54,7 @@ async (conn, mek, m, { from, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363401658098220@newsletter',
-                    newsletterName: config.OWNER_NAME || '𝐃𝐀𝐖𝐄𝐍𝐒-𝗫𝗗',
+                    newsletterName: config.OWNER_NAME || '𝐙𝐀𝐑𝐘𝐀𝐁𝐎𝐓-𝗩𝟏',
                     serverMessageId: 143
                 }
             }
