@@ -1,6 +1,6 @@
 const { cmd } = require('../command');
 
-// Fixed & Created By DawensTech 
+// Fixed & Created By 𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏 
 cmd({
   pattern: "hidetag",
   alias: ["tag", "h"],  
