@@ -29,7 +29,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 caption: `
 *📄 PDF created successully!*
 
-> © *ᴘᴏᴡᴇʀᴇᴅ ʙʏ dawens* 🤍`
+> © *ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏* 🤍`
             }, { quoted: mek });
         });
 
