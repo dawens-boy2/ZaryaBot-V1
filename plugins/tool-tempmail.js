@@ -56,7 +56,7 @@ _Email will expire after 24 hours_
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363401658098220@newsletter',
-                        newsletterName: '𝐃𝐀𝐖𝐄𝐍𝐒-𝗫𝗗',
+                        newsletterName: '𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏',
                         serverMessageId: 101
                     }
                 }
