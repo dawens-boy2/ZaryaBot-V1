@@ -223,12 +223,12 @@ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHAT
 ## 🪀 WHATSAPP CHANNEL 
 STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VayfNoX8KMqltTJc5R1q)
+[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbCHd5V1dAw132PB7M1B)
 
 ## 🪀 WHATSAPP GROUP
 JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/F7cM5LnkFmpFIe8II0Mvvx)
+[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/KLQcOjzRewNHrzO83wrGli)
 
  
 
@@ -265,7 +265,7 @@ Wishing you a great day ahead!
 <br>
 
 ```
-THANK YOU DawensTech,  & YOU SUPPORTERS
+THANK YOU 𝐙𝐀𝐑𝐘𝐀𝐁𝐎𝐓-𝗩𝟏,  & YOU SUPPORTERS
 ```
 -----
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
