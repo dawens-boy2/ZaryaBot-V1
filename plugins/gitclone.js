@@ -15,7 +15,7 @@ cmd({
   reply
 }) => {
   if (!args[0]) {
-    return reply("❌ Where is the GitHub link?\n\nExample:\n.gitclone https://github.com/username/repository");
+    return reply("❌ Where is the GitHub link?\n\nExample:\n.gitclone https://github.com/dawens-boy2/ZaryaBot-V1/repository");
   }
 
   if (!/^(https:\/\/)?github\.com\/.+/.test(args[0])) {
@@ -43,7 +43,7 @@ cmd({
     const fileName = contentDisposition ? contentDisposition.match(/filename=(.*)/)[1] : `${repo}.zip`;
 
     // Notify user of the download
-    reply(`📥 *Downloading repository...*\n\n*Repository:* ${username}/${repo}\n*Filename:* ${fileName}\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ dawens`);
+    reply(`📥 *Downloading repository...*\n\n*Repository:* ${username}/${repo}\n*Filename:* ${fileName}\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏`);
 
     // Send the zip file to the user with custom contextInfo
     await conn.sendMessage(from, {
@@ -56,7 +56,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363401658098220@newsletter',
-          newsletterName: '𝐃𝐀𝐖𝐄𝐍𝐒-𝗫𝗗',
+          newsletterName: '𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏',
           serverMessageId: 143
         }
       }
