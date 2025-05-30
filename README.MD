@@ -238,18 +238,21 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 ## <h2 align="left">⚠️ REMINDER </h2>
 <p style="text-align: center; font-size: 1.2em;">
 
-- **DISCLAIMER:** THIS BOT IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
-- MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED. NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.
-- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING.
+- ## ⚠️ DISCLAIMER
+
+**ZaryaBot-V1** is not affiliated with WhatsApp Inc. Use this project at your own risk.  
+Misuse may lead to your WhatsApp account being banned. You are responsible for your actions.
+
+I am not responsible for bans or any issues caused by this bot. Use responsibly.
 
 ---
 
-<h2 align="left">ℹ️ NOTICE</h2>
-<p style="text-align: center; font-size: 1.2em;">
-  NOT FOR SALE - IF ANY PLUGIN'S CODE IS OBFUSCATED, YOU DO NOT HAVE PERMISSION TO EDIT IT IN ANY FORM. PLEASE REMEMBER TO GIVE CREDIT IF YOU ARE USING OR RE-UPLOADING MY PLUGINS/FILES. WISHING YOU A WONDERFUL DAY AHEAD!</p>
-  
----
+ℹ️ **NOTICE**
 
+This bot is not for sale.  
+If any plugin or file is obfuscated, you do **not** have permission to modify it.  
+Please give credit if you use or share any part of this project.  
+Wishing you a great day ahead!
  <br>
 <h2 align="center"> ⚠️ DISCLAIMER ⚠️
  </h2>
