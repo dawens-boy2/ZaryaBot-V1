@@ -69,6 +69,13 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 </a>
 <br> 
 
+> **3. PAIR CODE SESSION ID**
+
+<a href='https://zaryabotv1-sessions-51581ee57c24.herokuapp.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
 ---
 
 ### <h2 align="">𐃁ZaryaBot-V1 DEPLOYMENT OPTIONS𐃁</h2>
